@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/alifb/Google Drive/KULIAH/oop/music/jl1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alifb/Google Drive/KULIAH/oop/music/jaudiotagger-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alifb/Google Drive/KULIAH/oop/music/mp3spi-1.9.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alifb/Google Drive/KULIAH/oop/music/tritonus-utils.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
